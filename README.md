@@ -10,6 +10,8 @@
 - 🥅 Metas para 2021-2022: Ajudar em projetos open source e criar mais projetos pessoais.
 - ⚡ Fun fact: Amo ter um tempo com meus amigos/família.
 
+---
+
 ### Conecte-se:
 
 [<img align="left" alt="OliverBiel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,6 +19,8 @@
 [<img align="left" alt="OliverBiel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Ferramentas e linguagens:
 
@@ -34,6 +38,8 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right:5px"/>
 
+<br />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right:5px"/>
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/25268323/141690632-5a40e6a3-9b32-48bc-9b57-f9ed63d91456.png" style="margin-right:5px"/>
@@ -49,8 +55,6 @@
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/25268323/141690484-32e956a4-9be8-47d2-baee-bbbe4251e0f9.png" />
 
 <br />
-<br />
-
 
 [twitter]: https://twitter.com/bielzz_oliveira
 [instagram]: https://www.instagram.com/bielzz_oliver/
