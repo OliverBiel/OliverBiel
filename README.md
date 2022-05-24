@@ -4,10 +4,10 @@
 
 ## Sou estudande de [Ciência da Computação](https://www.uniceub.br/), atualmente faço estágio na [Codeplan](https://www.codeplan.df.gov.br/)!!
 
-- 🎉 Estou finalizando meu primeiro [repositório](https://github.com/OliverBiel/codeplan) no [github][github]!
+- 🎉 Acabei de finalizar meu [portifólio](https://oliverbiel.github.io/portifolio/) !
 - 🌱 Atualmente busco aprender tudo o que eu posso, porém minha linguagem preferida é [Python](https://www.python.org/)! 
 - 🔭 Meu foco atualmente é em construir coisas para o futuro, aprender coisas novas e melhorar oque eu já sei!
-- 🥅 Metas para 2021-2022: Ajudar em projetos open source e criar mais projetos pessoais.
+- 🥅 Metas para 2022: Ajudar em projetos open source e criar mais projetos pessoais.
 - ⚡ Fun fact: Amo ter um tempo com meus amigos/família.
 
 ---
